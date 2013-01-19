@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+	"name"			"3d Player Map"
+	"version"		""
+	"author_name"	"_Undefined"
+	"author_email"	"adam@burt0n.net"
+	"info"			""
+}

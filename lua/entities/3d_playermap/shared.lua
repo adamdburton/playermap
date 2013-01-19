@@ -1,0 +1,9 @@
+ENT.Type			= "anim"
+ENT.Base			= "base_anim"
+ENT.PrintName		= "3D Player Map"
+ENT.Author			= "_Undefined"
+ENT.Contact			= ""
+ENT.Purpose			= ""
+ENT.Spawnable		= true
+ENT.Instructions	= ""
+ENT.AdminSpawnable	= true
